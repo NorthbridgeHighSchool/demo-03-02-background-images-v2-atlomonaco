@@ -1,0 +1,33 @@
+html.Mountians {
+ background-image: url('Moutian.jpg');
+ background-repeat: no-repeat;
+ background-position: center center;
+ background-attachment: fixed; 
+ background-size: cover;
+}
+.textblock{
+  background-color: rgba(238, 228, 228, 0.404);
+  margin-right: 500px;
+  padding: 20px;
+}
+html.snowtop {
+ background-image: url('snowtop.webp');
+ background-repeat: no-repeat;
+ background-position: center center;
+ background-attachment: fixed; 
+ background-size: cover;
+}
+html.tree {
+ background-image: url('tree.jpg');
+ background-repeat: no-repeat;
+ background-position: center center;
+ background-attachment: fixed; 
+ background-size: cover;
+}
+html.river {
+ background-image: url('river.jpg');
+ background-repeat: no-repeat;
+ background-position: center center;
+ background-attachment: fixed; 
+ background-size: cover;
+}
